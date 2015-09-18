@@ -3,6 +3,7 @@ LIST OF MEMBERS FOR TEAM X
 MEMBER 1 Ziyang Li
  
 MEMBER 2 Bohan Lin
+Role in the Project: software layout designer
  
 MEMBER 3 Joshua Lay
 	
